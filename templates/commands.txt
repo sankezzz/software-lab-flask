@@ -1,0 +1,2 @@
+commands used in the docker 
+-d deamon mode in this the container will run in the background 
